@@ -1,6 +1,6 @@
 # UnlockClock
 
-After watching Snazzy Labs' new video (_"Do NOT Buy a 'Minimalist' Phone!!"_)[https://www.youtube.com/watch?v=NnLP5MORQpc&t=805s], one stat stuck with me:  
+After watching Snazzy Labs new video, [Do NOT Buy a 'Minimalist' Phone!!](https://www.youtube.com/watch?v=NnLP5MORQpc&t=805s), one statistic stuck with me:  
 **"Americans reach for their phones every 2.5 minutes."**
 
 I wanted to know — when did I last reach for my phone? So I made this app.
