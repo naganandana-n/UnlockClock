@@ -1,0 +1,58 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.properties
+
+# Local configuration files
+local.properties
+*.iml
+.idea/
+*.log
+
+# macOS specific
+.DS_Store
+
+# Android Studio
+captures/
+.externalNativeBuild/
+
+# Kotlin-specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Unit test files
+/test-output/
+*.ec
+
+# Jetpack Compose previews
+*.preview.db
+
+# Crash logs
+crashlytics-build.properties
+firebase/
+
+# VSCode if used
+.vscode/
